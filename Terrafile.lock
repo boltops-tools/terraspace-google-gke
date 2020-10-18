@@ -1,0 +1,7 @@
+---
+gke:
+  source: terraform-google-modules/kubernetes-engine/google
+  stack: :all
+  type: registry
+  url: https://github.com/terraform-google-modules/terraform-google-kubernetes-engine
+  sha: 26ea28db52ce5797da043a1c56dfb4575f49dac8
